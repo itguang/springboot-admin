@@ -47,14 +47,6 @@ renren-fast
 ```
 <br> 
 
-**如何交流、反馈、参与贡献？** 
-- 开发文档：http://www.renren.io/open/renren-fast/
-- Git仓库：http://git.oschina.net/babaio/renren-fast
-- 其他项目：http://www.renren.io/open/
-- [编程入门教程](http://www.renren.io)：http://www.renren.io   
-- 官方QQ群：324780204、145799952
-- 如需关注项目最新动态，请Watch、Star项目，同时也是对项目最好的支持
-<br> 
 
 
 **技术选型：** 
@@ -79,11 +71,6 @@ renren-fast
 - 账号密码：admin/admin
 - Swagger路径：http://localhost:8080/renren-fast/swagger/index.html
 
-
- **项目演示**
-- 演示地址：http://demo.open.renren.io/renren-fast
-- 账号密码：admin/admin
-<br> 
 
 **接口文档效果图：**
 ![输入图片说明](http://cdn.renren.io/img/6e8d7575fb8240d49b949dc0f02547bc "在这里输入图片标题")
